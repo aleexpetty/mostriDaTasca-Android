@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Progetto</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYWxleHBldHR5IiwiYSI6ImNrMzYwd3g1ZzE1M3AzaW1xc2p4YjEwYXgifQ.eni9_w3JUh-rJGByNGrZWA</string>
+    <string name="errorCandy">Devi essere al massimo a 50m di distanza. \n</string>
+    <string name="errorMonster">Devi essere al massimo a 50m di distanza. \n</string>
+    <string name="errorNoConnection">Connessione assente!\nControlla la connessione e riprova.</string>
+</resources>
